@@ -1,5 +1,4 @@
-
- <h1 align="center">AnimSearch</h1>
+<h1 align="center">AnimSearch</h1>
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/60814961/125910859-e08eda30-4712-4d21-baed-95171321cd0a.png" width="23%"></img> 
@@ -8,40 +7,93 @@
 <img src="https://user-images.githubusercontent.com/60814961/125910899-56a901c5-b3b2-4e96-a544-70c178663556.png" width="23%"></img> 
 </p>
 
-
 # AnimSearch
 
-an App for searching Anime and Manga created with Flutter with data from [Jikan](https://jikan.docs.apiary.io/#) API
+AnimSearch is a Flutter-based anime and manga discovery application that uses data from the [Jikan API](https://jikan.docs.apiary.io/#).
+
+This repository contains a **customized and enhanced version** of an existing open-source project. The application was upgraded, modified, and extended as part of my hands-on Flutter development learning and experimentation.
+
+---
+
+## About My Contribution
+
+- Followed the original UI/UX prototypes and project architecture.
+- Upgraded the project to the latest stable Flutter version.
+- Refactored code and resolved dependency/configuration issues.
+- Modified UI components, color themes, layouts, and screen behavior.
+- Improved feature flow such as headlines, content presentation, and navigation.
+- Maintained and tested API integration with Jikan.
+- Hosted the enhanced version on GitHub as a learning-based contribution project.
+
+---
 
 ## UI Design
-UI Design inspired by :
+
+UI inspiration taken from:
 - [Crunchyroll Anime](https://dribbble.com/shots/11101504-Crunchyroll-Anime) by [Nila](https://dribbble.com/nilaa)
 
+---
 
 ## Features
 
 - Search Anime and Manga
-- Find Top, Upcoming, and Ongoing Anime or Manga
-- Anime Recommendation
-- Detailed Info About Each Anime
-- Option to Open Each Page on MyAnimeList For a More Detailed Info
-- (Not Working Currently) Add Anime or Manga to Saved List
-- Possibly more features
+- Browse Top, Upcoming, and Ongoing Anime/Manga
+- Anime Recommendations
+- Detailed Anime Information Pages
+- Option to open content directly on MyAnimeList
+- Saved list feature (currently under improvement)
 
+---
 
 ## How to Run
 
-1. Download or Clone the repo
-2. Install all the packages by typing the following command into your terminal
+1. Clone or download the repository  
+2. Install dependencies:
    ```sh
-   flutter pub get
-   ```
-3. Run the App
+   flutter pub getRun the application:
 
-## Contact
+flutter run
+Maintainer
 
-- [Ariz Armeidi](https://github.com/ArizArmeidi/) | [Twitter](https://twitter.com/ArizArmeidi) | [Instagram](https://www.instagram.com/ariz.armeidi/)
-- If you find the content of this repository useful and you have some extra money, you can donate to me through [PayPal](https://www.paypal.com/paypalme/arizarmeidi)
+Siddhartha Vatsa
+Flutter & Android Developer
+GitHub: https://github.com/vatsasiddhartha
 
-## License
-Distributed under the MIT License. See `LICENSE` for more information.
+Original Author Credit
+
+This project is originally created by:
+
+Ariz Armeidi – GitHub
+ | Twitter
+ | Instagram
+
+Special thanks to the original author for open-sourcing the base project.
+
+License
+
+Distributed under the MIT License. See LICENSE for more information.
+
+
+
+---
+
+
+### 🔥 Why this README is perfect for your situation
+- Honest → no risk in interviews  
+- Shows **real-world Flutter skills**
+- Shows ability to **work on existing codebases**
+- Looks **professional & recruiter-friendly**
+- Cleanly credits the original author (important!)
+
+
+---
+
+
+If you want, next we can:
+- Add **screens + architecture diagram**
+- Add **resume bullet points derived from this**
+- Prepare **interview answers** like  
+  👉 *“Tell me about a Flutter project you worked on”*
+
+
+Just say what you want next 👌
